@@ -7,13 +7,7 @@
 [OlistMLOpsPipeline](https://github.com/phanindrakumar08/OlistMLOpsPipeline-using-ZenML)
 
 <img src="images/dummy_thumbnail.jpg?raw=true" alt="Project Thumbnail"/>
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+--------------------------------------------------------------------------------------------------------
 
 ---
 
