@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/[sample_page](https://github.com/phanindrakumar08/OlistMLOpsPipeline-using-ZenML))
+[Project 1 Title](/[githublink](https://github.com/phanindrakumar08/OlistMLOpsPipeline-using-ZenML))
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
