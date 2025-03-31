@@ -14,14 +14,11 @@ Developed a production-ready machine learning pipeline for house price predictio
 
 ---
 
-### Olist MLOps Pipeline using ZenML
+### End-to-End Medical Chatbot - Generative AI
 
-[GitHub Link](https://github.com/phanindrakumar08/OlistMLOpsPipeline-using-ZenML)
+[GitHub Link](https://github.com/phanindrakumar08/End-to-End-medical-Chatbot-Generative-AI)
 
-![image](https://github.com/user-attachments/assets/611982ac-b514-4f89-8e75-47ff665837b0)
-
-
-Implemented a robust Machine Learning Operations (MLOps) pipeline using ZenML for the Brazilian Olist e-commerce dataset, demonstrating best practices in MLOps for model deployment and management.
+![image](https://github.com/user-attachments/assets/971b97aa-f8bd-49bb-b9e9-d7abf1e3b50c)
 
 ---
 
@@ -82,6 +79,15 @@ Analyzed Toronto crime trends using open data from 2014-2022, developing predict
 
 
 Authored a research paper exploring the impact of machine learning advancements on computer science from 2018 to 2023, covering algorithm innovations, generative models, and large language models (LLMs).
+
+### Olist MLOps Pipeline using ZenML
+
+[GitHub Link](https://github.com/phanindrakumar08/OlistMLOpsPipeline-using-ZenML)
+
+![image](https://github.com/user-attachments/assets/611982ac-b514-4f89-8e75-47ff665837b0)
+
+
+Implemented a robust Machine Learning Operations (MLOps) pipeline using ZenML for the Brazilian Olist e-commerce dataset, demonstrating best practices in MLOps for model deployment and management.
 
 ---
 
