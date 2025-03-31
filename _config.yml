@@ -1,11 +1,11 @@
 title: Phanindra Tirumalasetty # your name (or website title) here
 logo: "/images/logo.jpeg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  Research Data Scientist | Ex-Data Analyst at Oracle Cerner | AI & MLOps Enthusiast | Skilled in Python, SQL, Machine Learning, NLP, Power BI, MLOps and Agentic AI
   <br><br>
-  Second description 
+  My Goal? To bridge the gap between data science and business impact by delivering AI-powered solutions that drive efficiency, reduce costs, and enhance decision-making. 
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/phanindra-kumar33/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
