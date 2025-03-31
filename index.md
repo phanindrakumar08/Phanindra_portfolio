@@ -20,6 +20,8 @@ Developed a production-ready machine learning pipeline for house price predictio
 
 ![image](https://github.com/user-attachments/assets/971b97aa-f8bd-49bb-b9e9-d7abf1e3b50c)
 
+Developed a Medical Chatbot using OpenAI, Pinecone, and LangChain to enable intelligent medical query handling. Implemented semantic search, PDF data extraction, and a Flask-based API, enhancing information retrieval and user interaction.
+
 ---
 
 ### BentoML Retail Price Optimization
