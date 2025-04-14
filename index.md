@@ -2,12 +2,17 @@
 
 ---
 
+https://github.com/user-attachments/assets/248895c3-f628-466a-8f41-821c105d2ab0
+
+
+
 ### End-to-End Machine Learning Pipeline for Price Prediction
 
 [GitHub Link](https://github.com/phanindrakumar08/End-to-End-Machine-Learning-Pipeline-for-Price-Prediction)
 
 
 ![image](https://github.com/user-attachments/assets/d7d607e4-408c-4588-94a5-10dff0111cb6)
+
 
 
 Developed a production-ready machine learning pipeline for house price prediction, utilizing ZenML for pipeline orchestration and incorporating Factory and Strategy design patterns for enhanced flexibility and scalability.
