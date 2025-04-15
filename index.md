@@ -17,13 +17,7 @@ Relevance AI · Python · Web Scraping · Custom APIs · Conversational AI · NL
 (To use the Agent, please email me @phanindrakumar1998@gmail.com)
 
 
-[![](https://img.shields.io/badge/Relevance_AI-white?logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjMDAwMDAwIiBoZWlnaHQ9IjMwIiB2aWV3Qm94PSIwIDAgMzAgMzAiIHdpZHRoPSIzMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48Y2lyY2xlIGN4PSIxNSIgY3k9IjE1IiByPSIxNSIgZmlsbD0iIzAwN0ZEMCIvPjwvc3ZnPg==)](https://relevanceai.com/)  
-[![](https://img.shields.io/badge/Python-white?logo=Python)](https://www.python.org/)  
-[![](https://img.shields.io/badge/Web_Scraping-white?logo=BeautifulSoup)](https://www.crummy.com/software/BeautifulSoup/)  
-[![](https://img.shields.io/badge/Custom_APIs-white?logo=FastAPI)](https://fastapi.tiangolo.com/)  
-[![](https://img.shields.io/badge/Conversational_AI-white?logo=Dialogflow)](https://dialogflow.cloud.google.com/)  
-[![](https://img.shields.io/badge/NLP-white?logo=spaCy)](https://spacy.io/)  
-[![](https://img.shields.io/badge/Prompt_Engineering-white?logo=OpenAI)](https://platform.openai.com/docs/guides/prompt-engineering)
+[![](https://img.shields.io/badge/Relevance_AI-white?logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjMDAwMDAwIiBoZWlnaHQ9IjMwIiB2aWV3Qm94PSIwIDAgMzAgMzAiIHdpZHRoPSIzMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48Y2lyY2xlIGN4PSIxNSIgY3k9IjE1IiByPSIxNSIgZmlsbD0iIzAwN0ZEMCIvPjwvc3ZnPg==)](https://relevanceai.com/)  [![](https://img.shields.io/badge/Python-white?logo=Python)](https://www.python.org/)  [![](https://img.shields.io/badge/Web_Scraping-white?logo=BeautifulSoup)](https://www.crummy.com/software/BeautifulSoup/)  [![](https://img.shields.io/badge/Custom_APIs-white?logo=FastAPI)](https://fastapi.tiangolo.com/)   [![](https://img.shields.io/badge/Conversational_AI-white?logo=Dialogflow)](https://dialogflow.cloud.google.com/)  [![](https://img.shields.io/badge/NLP-white?logo=spaCy)](https://spacy.io/)  [![](https://img.shields.io/badge/Prompt_Engineering-white?logo=OpenAI)](https://platform.openai.com/docs/guides/prompt-engineering)
 
 
 
