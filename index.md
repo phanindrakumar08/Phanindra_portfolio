@@ -4,21 +4,16 @@
 
 ### 👨‍💻 Sales Co-Pilot Agent for Miracle Recruits
 
-#### 🔍 PURPOSE 
-To help sales reps prepare for calls better by creating handy research tools that collect data on prospects and their company from across the web, which can be used to generate a pre-call report for them to use before  taking each call.
+Developed intelligent research tools to assist sales representatives in preparing for client calls by automatically gathering relevant data on prospects and their companies from across the web. These insights were compiled into concise, pre-call reports to enable more informed and effective conversations.
 
 ![image](https://github.com/user-attachments/assets/901644f6-1026-4308-85d8-ac449f292cfc)
 
-Built a powerful Sales Co-Pilot Agent using Relevance AI, designed to assist sales reps at a fictional firm, Big Boy Recruits, in preparing for client calls. This conversational AI integrates three custom research tools, including an advanced web scraping module, enabling real-time data retrieval and contextual insights. The agent enhances pre-call intelligence, improving lead conversion and productivity.
-
 #### 🔧 Tools & Tech Stack:
-Relevance AI · Python · Web Scraping · Custom APIs · Conversational AI · NLP · Prompt Engineering
-
-(To use the Agent, please email me @phanindrakumar1998@gmail.com)
-
-
 [![](https://img.shields.io/badge/Relevance_AI-white?logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjMDAwMDAwIiBoZWlnaHQ9IjMwIiB2aWV3Qm94PSIwIDAgMzAgMzAiIHdpZHRoPSIzMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48Y2lyY2xlIGN4PSIxNSIgY3k9IjE1IiByPSIxNSIgZmlsbD0iIzAwN0ZEMCIvPjwvc3ZnPg==)](https://relevanceai.com/)  [![](https://img.shields.io/badge/Python-white?logo=Python)](https://www.python.org/)  [![](https://img.shields.io/badge/Web_Scraping-white?logo=BeautifulSoup)](https://www.crummy.com/software/BeautifulSoup/)  [![](https://img.shields.io/badge/Custom_APIs-white?logo=FastAPI)](https://fastapi.tiangolo.com/)   [![](https://img.shields.io/badge/Conversational_AI-white?logo=Dialogflow)](https://dialogflow.cloud.google.com/)  [![](https://img.shields.io/badge/NLP-white?logo=spaCy)](https://spacy.io/)  [![](https://img.shields.io/badge/Prompt_Engineering-white?logo=OpenAI)](https://platform.openai.com/docs/guides/prompt-engineering)
 
+[Clone Agent](https://app.relevanceai.com/notebook/bcbe5a/c32f5631f67c-49bc-af31-ce21aa1c8fef/d93ec38f-c5c4-40b4-b571-12c02956292c)
+[Demo]()
+(To use the Agent, please email me @phanindrakumar1998@gmail.com)
 
 
 
