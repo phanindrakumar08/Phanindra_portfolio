@@ -1,9 +1,19 @@
-# My Portfolio
+# Agentic AI Projects
 
 ---
 
+### Sales Co-Pilot Agent for Miracle Recruits
 
+#### PURPOSE 
+To help sales reps prepare for calls better by creating handy research tools that collect data on prospects and their company from across the web, which can be used to generate a pre-call report for them to use before  taking each call.
 
+![image](https://github.com/user-attachments/assets/901644f6-1026-4308-85d8-ac449f292cfc)
+
+Built a powerful Sales Co-Pilot Agent using Relevance AI, designed to assist sales reps at a fictional firm, Big Boy Recruits, in preparing for client calls. This conversational AI integrates three custom research tools, including an advanced web scraping module, enabling real-time data retrieval and contextual insights. The agent enhances pre-call intelligence, improving lead conversion and productivity.
+
+#### Tools & Tech Stack:
+Relevance AI · Python · Web Scraping · Custom APIs · Conversational AI · NLP · Prompt Engineering
+(To use the Agent, please email me @phanindrakumar1998@gmail.com)
 
 
 ### End-to-End Machine Learning Pipeline for Price Prediction
