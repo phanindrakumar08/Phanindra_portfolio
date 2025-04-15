@@ -19,8 +19,36 @@ To use the Agent, please email me @phanindrakumar1998@gmail.com
 
 
 
+### 🧠 Chat-to-Database AI Agent
+
+Developed intelligent research tools to assist sales representatives in preparing for client calls by automatically gathering relevant data on prospects and their companies from across the web. These insights were compiled into concise, pre-call reports to enable more informed and effective conversations.
+
+![image](https://github.com/user-attachments/assets/be70d419-9085-44e1-a36f-ac4b9433aa8a)
+
+#### 🔧 Tools & Tech Stack:
+
+[![](https://img.shields.io/badge/Agentive_AI-white?logo=agentive)](https://agentivehub.com/)  [![](https://img.shields.io/badge/Relevance_AI-white?logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjMDAwMDAwIiBoZWlnaHQ9IjMwIiB2aWV3Qm94PSIwIDAgMzAgMzAiIHdpZHRoPSIzMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48Y2lyY2xlIGN4PSIxNSIgY3k9IjE1IiByPSIxNSIgZmlsbD0iIzAwN0ZEMCIvPjwvc3ZnPg==)](https://relevanceai.com/)  [![](https://img.shields.io/badge/Supabase-white?logo=Supabase)](https://supabase.com)  [![](https://img.shields.io/badge/PostgreSQL-white?logo=PostgreSQL)](https://www.postgresql.org/)  [![](https://img.shields.io/badge/Prompt_Engineering-white?logo=OpenAI)](https://platform.openai.com/docs/guides/prompt-engineering)  [![](https://img.shields.io/badge/Figma-white?logo=Figma)](https://www.figma.com/)
+
+[Clone Agent](https://agentivehub.com/chat/4f9ab2e9-0856-4460-a29c-5d87173e741a)  ·  [Demo]()   ·   To use the Agent, email @ phanindrakumar1998@gmail.com
 
 
+### 📼 YouTube Video Summarizer
+Developed an automated Python tool that converts YouTube videos into concise, bullet-point summaries. The script extracts video transcripts using the YouTube Search API and summarizes them with OpenAI’s GPT-4 model. Designed for clarity and quick consumption of video content, this tool is ideal for researchers, content creators, and productivity-focused users.
+
+### 🔧 Tools & Tech Stack:
+Python · LangChain · Cline · OpenAI
+
+
+### End-to-End Medical Chatbot - Generative AI
+
+[GitHub Link](https://github.com/phanindrakumar08/End-to-End-medical-Chatbot-Generative-AI)
+
+![image](https://github.com/user-attachments/assets/971b97aa-f8bd-49bb-b9e9-d7abf1e3b50c)
+
+Developed a Medical Chatbot using OpenAI, Pinecone, and LangChain to enable intelligent medical query handling. Implemented semantic search, PDF data extraction, and a Flask-based API, enhancing information retrieval and user interaction.
+
+
+# Machine Learning Projects
 
 ### End-to-End Machine Learning Pipeline for Price Prediction
 
@@ -35,15 +63,6 @@ Developed a production-ready machine learning pipeline for house price predictio
 
 ---
 
-### End-to-End Medical Chatbot - Generative AI
-
-[GitHub Link](https://github.com/phanindrakumar08/End-to-End-medical-Chatbot-Generative-AI)
-
-![image](https://github.com/user-attachments/assets/971b97aa-f8bd-49bb-b9e9-d7abf1e3b50c)
-
-Developed a Medical Chatbot using OpenAI, Pinecone, and LangChain to enable intelligent medical query handling. Implemented semantic search, PDF data extraction, and a Flask-based API, enhancing information retrieval and user interaction.
-
----
 
 ### BentoML Retail Price Optimization
 
@@ -56,16 +75,7 @@ Built a practical MLOps pipeline for retail price optimization, integrating ZenM
 
 ---
 
-### Water Quality Analysis with Plotly and Modeling
 
-[GitHub Link](https://github.com/phanindrakumar08/Water-Quality-Analysis-Plotly-and-Modelling)
-
-![image](https://github.com/user-attachments/assets/bf8b6f14-2083-4f53-a069-1e65c91e470b)
-
-
-Performed comprehensive water quality analysis to distinguish between potable and non-potable water, utilizing Plotly for interactive data visualization and applying machine learning models to predict water potability. Addressed the critical importance of safe water for public health by analyzing key water quality parameters.
-
----
 
 ### OLS Regression Challenge
 
@@ -114,4 +124,16 @@ Implemented a robust Machine Learning Operations (MLOps) pipeline using ZenML fo
 
 ---
 
+# Data Analysis Projects
+
+### Water Quality Analysis with Plotly and Modeling
+
+[GitHub Link](https://github.com/phanindrakumar08/Water-Quality-Analysis-Plotly-and-Modelling)
+
+![image](https://github.com/user-attachments/assets/bf8b6f14-2083-4f53-a069-1e65c91e470b)
+
+
+Performed comprehensive water quality analysis to distinguish between potable and non-potable water, utilizing Plotly for interactive data visualization and applying machine learning models to predict water potability. Addressed the critical importance of safe water for public health by analyzing key water quality parameters.
+
+---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
