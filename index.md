@@ -13,17 +13,16 @@ Developed intelligent research tools to assist sales representatives in preparin
 
 [Clone Agent](https://app.relevanceai.com/notebook/bcbe5a/c32f5631f67c-49bc-af31-ce21aa1c8fef/d93ec38f-c5c4-40b4-b571-12c02956292c)  ·  [Demo]()
 
-
 To use the Agent, please email me @phanindrakumar1998@gmail.com
 
-
-
+---
 
 ### 🧠 Chat-to-Database AI Agent
 
 Developed intelligent research tools to assist sales representatives in preparing for client calls by automatically gathering relevant data on prospects and their companies from across the web. These insights were compiled into concise, pre-call reports to enable more informed and effective conversations.
 
-![image](https://github.com/user-attachments/assets/be70d419-9085-44e1-a36f-ac4b9433aa8a)
+![image](https://github.com/user-attachments/assets/be70d419-9085-44e1-a36f-ac4b9433aa8a) ![image](https://github.com/user-attachments/assets/002cab86-7039-4807-a22d-f008793f93e5)
+
 
 #### 🔧 Tools & Tech Stack:
 
@@ -31,13 +30,16 @@ Developed intelligent research tools to assist sales representatives in preparin
 
 [Clone Agent](https://agentivehub.com/chat/4f9ab2e9-0856-4460-a29c-5d87173e741a)  ·  [Demo]()   ·   To use the Agent, email @ phanindrakumar1998@gmail.com
 
+---
 
 ### 📼 YouTube Video Summarizer
 Developed an automated Python tool that converts YouTube videos into concise, bullet-point summaries. The script extracts video transcripts using the YouTube Search API and summarizes them with OpenAI’s GPT-4 model. Designed for clarity and quick consumption of video content, this tool is ideal for researchers, content creators, and productivity-focused users.
 
+[![](https://img.shields.io/badge/Python-white?logo=Python)](https://www.python.org/)  [![](https://img.shields.io/badge/LangChain-white?logo=LangChain)](https://www.langchain.com/) [![](https://img.shields.io/badge/OpenAI-white?logo=OpenAI)](https://openai.com/) 
 ### 🔧 Tools & Tech Stack:
 Python · LangChain · Cline · OpenAI
 
+---
 
 ### End-to-End Medical Chatbot - Generative AI
 
@@ -47,8 +49,9 @@ Python · LangChain · Cline · OpenAI
 
 Developed a Medical Chatbot using OpenAI, Pinecone, and LangChain to enable intelligent medical query handling. Implemented semantic search, PDF data extraction, and a Flask-based API, enhancing information retrieval and user interaction.
 
+---
 
-# Machine Learning Projects
+# ML Engineering and MLOps
 
 ### End-to-End Machine Learning Pipeline for Price Prediction
 
@@ -63,7 +66,6 @@ Developed a production-ready machine learning pipeline for house price predictio
 
 ---
 
-
 ### BentoML Retail Price Optimization
 
 [GitHub Link](https://github.com/phanindrakumar08/BentoML-Retail-Price-Optimization)
@@ -75,13 +77,9 @@ Built a practical MLOps pipeline for retail price optimization, integrating ZenM
 
 ---
 
-
-
 ### OLS Regression Challenge
 
 [GitHub Link](https://github.com/phanindrakumar08/OLSRegressionChallenge)
-
-
 
 Developed an Ordinary Least Squares (OLS) regression model to predict cancer mortality rates across U.S. counties, integrating diverse data sources and applying advanced data preprocessing techniques.
 
@@ -91,7 +89,6 @@ Developed an Ordinary Least Squares (OLS) regression model to predict cancer mor
 
 [GitHub Link](https://github.com/phanindrakumar08/Handwritten-word-recognition-model)
 
-
 Automated the transcription of handwritten notes into digital text with high accuracy, streamlining workflows and improving data accessibility across digital platforms, using Deep learning techniques.
 
 ---
@@ -99,8 +96,6 @@ Automated the transcription of handwritten notes into digital text with high acc
 ### Toronto Crime Data Exploration and Prediction Model
 
 [GitHub Link](https://github.com/phanindrakumar08/Toronto-Crime-Data-Exploration-and-Prediction-Model)
-
-
 
 Analyzed Toronto crime trends using open data from 2014-2022, developing predictive models to assist law enforcement in data-driven strategies for public safety and community policing.
 
@@ -110,7 +105,6 @@ Analyzed Toronto crime trends using open data from 2014-2022, developing predict
 
 [GitHub Link](https://github.com/phanindrakumar08/Machine-Learning-s-Revolution-in-Computer-Science)
 
-
 Authored a research paper exploring the impact of machine learning advancements on computer science from 2018 to 2023, covering algorithm innovations, generative models, and large language models (LLMs).
 
 ### Olist MLOps Pipeline using ZenML
@@ -118,7 +112,6 @@ Authored a research paper exploring the impact of machine learning advancements 
 [GitHub Link](https://github.com/phanindrakumar08/OlistMLOpsPipeline-using-ZenML)
 
 ![image](https://github.com/user-attachments/assets/611982ac-b514-4f89-8e75-47ff665837b0)
-
 
 Implemented a robust Machine Learning Operations (MLOps) pipeline using ZenML for the Brazilian Olist e-commerce dataset, demonstrating best practices in MLOps for model deployment and management.
 
@@ -132,8 +125,16 @@ Implemented a robust Machine Learning Operations (MLOps) pipeline using ZenML fo
 
 ![image](https://github.com/user-attachments/assets/bf8b6f14-2083-4f53-a069-1e65c91e470b)
 
-
 Performed comprehensive water quality analysis to distinguish between potable and non-potable water, utilizing Plotly for interactive data visualization and applying machine learning models to predict water potability. Addressed the critical importance of safe water for public health by analyzing key water quality parameters.
 
 ---
+### Netflix Dashboard in Tableau Public
+
+[GitHub Link](https://github.com/phanindrakumar08/Tableau-Netflix-Dashboard)
+
+![image](https://github.com/user-attachments/assets/6280e39a-da63-4d14-a45e-0343bfdbed40)
+
+
+The objective of this project is to provide comprehensive insights and trends related to movies and TV shows on Netflix. By leveraging Tableau for data visualization, the project aims to present key information in a clear and concise manner, enabling viewers to quickly understand and analyze the data.
+[Open Netflix Dashboard in Tableau Public](https://public.tableau.com/app/profile/phanindra.kumar.tirumalasetty/viz/NetflixTableau_17320510020810/Netflix?publish=yes)
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
