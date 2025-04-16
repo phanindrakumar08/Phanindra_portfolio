@@ -21,7 +21,7 @@ To use the Agent, please email me @phanindrakumar1998@gmail.com
 
 Developed intelligent research tools to assist sales representatives in preparing for client calls by automatically gathering relevant data on prospects and their companies from across the web. These insights were compiled into concise, pre-call reports to enable more informed and effective conversations.
 
-![image](https://github.com/user-attachments/assets/be70d419-9085-44e1-a36f-ac4b9433aa8a) ![image](https://github.com/user-attachments/assets/e0f4cf2b-0104-4662-8549-39dd50254121)
+![image](https://github.com/user-attachments/assets/be70d419-9085-44e1-a36f-ac4b9433aa8a)
 
 
 #### 🔧 Tools & Tech Stack:
