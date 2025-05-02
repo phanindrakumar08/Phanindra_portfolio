@@ -1,6 +1,24 @@
 # Agentic AI Projects
 
 ---
+### 🔍 Natural Language SQL Querying with Vanna AI & LLaMA 3
+
+Built an intuitive interface using Vanna AI that enables users to query SQL databases through natural language. Integrated Chroma DB for vector storage and LLaMA 3 as the underlying language model to automatically generate accurate SQL queries from user prompts. Demonstrated with the Chinook MySQL database to provide a powerful, no-code querying experience.
+
+![image](https://github.com/user-attachments/assets/5303941f-50ac-4ffe-91fd-7652005bfbc4)
+
+#### 🔧 Tools & Tech Stack:
+
+[![](https://img.shields.io/badge/Vanna_AI-white?logo=OpenAI)](https://vanna.ai)  
+[![](https://img.shields.io/badge/Chroma_DB-white?logo=Chroma)](https://docs.trychroma.com/)  
+[![](https://img.shields.io/badge/LLaMA_3-white?logo=Meta)](https://ai.meta.com/llama/)  
+[![](https://img.shields.io/badge/MySQL-white?logo=MySQL)](https://www.mysql.com/)  
+[![](https://img.shields.io/badge/Python-white?logo=Python)](https://www.python.org/)  
+[![](https://img.shields.io/badge/Prompt_Engineering-white?logo=OpenAI)](https://platform.openai.com/docs/guides/prompt-engineering)
+
+[View Code on GitHub](https://github.com/phanindrakumar08/Natural-Language-SQL-Querying-with-Vanna-AI-LLaMA-3) · 
+
+[Live Demo](https://your-demo-link.com) 
 
 ### 👨‍💻 Sales Co-Pilot Agent for Miracle Recruits
 
